@@ -1,0 +1,659 @@
+TPnd
+v7
+r0
+t295487627.464915
+cCheck dependencies
+cProcessInfoPlistFile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Info.plist Pnd-Info.plist
+cCompileXIB /Users/benmills/Documents/Apps/Pnd/MainWindow.xib
+cCompileXIB /Users/benmills/Documents/Apps/Pnd/ListView.xib
+cCompileXIB /Users/benmills/Documents/Apps/Pnd/PosterView.xib
+cCpResource build/Debug-iphonesimulator/Pnd.app/pond-logo.png pond-logo.png
+cCpResource build/Debug-iphonesimulator/Pnd.app/post-button.png post-button.png
+cCpResource build/Debug-iphonesimulator/Pnd.app/refresh-button.png refresh-button.png
+cCpResource build/Debug-iphonesimulator/Pnd.app/icon.png ../../../Desktop/icon.png
+cProcessPCH /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch.gch Pnd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/main.o /Users/benmills/Documents/Apps/Pnd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PndAppDelegate.o /Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SwitchViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/ListViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PosterViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSObject+SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSString+SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonBase.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonParser.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonWriter.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd normal i386
+cGenerateDSYMFile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app.dSYM /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd
+cTouch /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BC717F10000000000000110
+t1271338993
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/benmills/Documents/Apps/Pnd/../../../Desktop/icon.png
+c000000004BEC612900000000000003D9
+t1273782569
+s985
+
+N/Users/benmills/Documents/Apps/Pnd/../ipad-pond/pond-logo.png
+c000000004BE6E1AB0000000000003EAB
+t1273422251
+s16043
+
+N/Users/benmills/Documents/Apps/Pnd/../ipad-pond/post-button.png
+c000000004BE6E3D40000000000000349
+t1273422804
+s841
+
+N/Users/benmills/Documents/Apps/Pnd/../ipad-pond/refresh-button.png
+c000000004BE6E3CC000000000000040E
+t1273422796
+s1038
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.h
+c000000004BE717FF00000000000002AE
+t1273436159
+s686
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m
+c000000004BEC8FFD00000000000012AF
+t1273794557
+s4783
+i"ListViewController.h"
+i"SwitchViewController.h"
+i"JSON/JSON.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.h
+c000000004BE70EBC00000000000001D4
+t1273433788
+s468
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m
+c000000004BE70EF10000000000000297
+t1273433841
+s663
+i"PndAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.h
+c000000004BE752EA00000000000002F2
+t1273451242
+s754
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m
+c000000004BE75673000000000000084E
+t1273452147
+s2126
+i"PosterViewController.h"
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.h
+c000000004BE713150000000000000211
+t1273434901
+s529
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m
+c000000004BE7569C0000000000000B62
+t1273452188
+s2914
+i"SwitchViewController.h"
+i"ListViewController.h"
+i"PosterViewController.h"
+
+N/Users/benmills/Documents/Apps/Pnd/ListView.xib
+c000000004BE718140000000000006B53
+t1273436180
+s27475
+
+N/Users/benmills/Documents/Apps/Pnd/MainWindow.xib
+c000000004BE710240000000000005381
+t1273434148
+s21377
+
+N/Users/benmills/Documents/Apps/Pnd/Pnd_Prefix.pch
+c000000004BE70E0B00000000000000AF
+t1273433611
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/PosterView.xib
+c000000004BE753A9000000000000785D
+t1273451433
+s30813
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app
+t1273794563
+s408
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app.dSYM
+t1273794563
+s102
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Info.plist
+t1273782670
+s816
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/ListView.nib
+t1273436183
+s2284
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/MainWindow.nib
+t1273435155
+s1187
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/PkgInfo
+t1273782670
+s8
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd
+t1273794563
+s70756
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/PosterView.nib
+t1273451438
+s2934
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/icon.png
+t1273782670
+s985
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/pond-logo.png
+t1273435514
+s16043
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/post-button.png
+t1273435514
+s841
+
+N/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/refresh-button.png
+t1273435514
+s1038
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/ListViewController.o
+t1273794563
+s52720
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSObject+SBJSON.o
+t1273435515
+s7736
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSString+SBJSON.o
+t1273435515
+s7756
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/Pnd.LinkFileList
+c000000004BE7157A0000000000000520
+t1273435514
+s1312
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PndAppDelegate.o
+t1273435156
+s42536
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PosterViewController.o
+t1273452154
+s47708
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJSON.o
+t1273435515
+s16756
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonBase.o
+t1273435515
+s12100
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonParser.o
+t1273435515
+s29812
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonWriter.o
+t1273435515
+s22552
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SwitchViewController.o
+t1273452188
+s46300
+
+N/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/main.o
+t1273435156
+s5936
+
+N/Users/benmills/Documents/Apps/Pnd/main.m
+c000000004BE70E0B0000000000000161
+t1273433611
+s353
+i<UIKit/UIKit.h>
+
+N/Users/benmills/Documents/Apps/Pnd/pond-logo.png
+c000000004BE6E1AB0000000000003EAB
+t1273422251
+s16043
+
+N/Users/benmills/Documents/Apps/Pnd/post-button.png
+c000000004BE6E3D40000000000000349
+t1273422804
+s841
+
+N/Users/benmills/Documents/Apps/Pnd/refresh-button.png
+c000000004BE6E3CC000000000000040E
+t1273422796
+s1038
+
+N/var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch.gch
+t1273435156
+s13805456
+
+NPnd-Info.plist
+c000000004BEC618400000000000004B2
+t1273782660
+s1202
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295487627#295487627#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/ListViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295487362.946774
+e295487363.066568
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/ListViewController.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m: In function '-[ListViewController viewDidLoad]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: 'ListViewController' may not respond to '-update_data'
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: (Messages without a matching method signature
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: will be assumed to return 'id' and accept
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: '...' as arguments.)
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m: In function '-[ListViewController update_button_pressed:]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:44: warning: 'ListViewController' may not respond to '-update_data'
+lSLF07#2@71"Compile /Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m295487362#295487363#0(843"/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m: In function '-[ListViewController viewDidLoad]':/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: 'ListViewController' may not respond to '-update_data'/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: (Messages without a matching method signature/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: will be assumed to return 'id' and accept/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:32: warning: '...' as arguments.)/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m: In function '-[ListViewController update_button_pressed:]':/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m:44: warning: 'ListViewController' may not respond to '-update_data'3(22@54"'ListViewController' may not respond to '-update_data'295487362#114#132#0(6@63"/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m295487357#32#0#32#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)295487362#246#123#0(6@63"/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m295487357#32#0#32#0#0"0(22@54"'ListViewController' may not respond to '-update_data'295487362#711#132#0(6@63"/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m295487357#44#0#44#0#26"'*' may not respond to '*'0(0#0#63"/Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m4300911832#1831"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/ListViewController.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/ListViewController.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSObject+SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.196580
+e295128315.585795
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m295128315#295128315#0(0"0(0#0#65"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m4300911832#1830"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSObject+SBJSON.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSString+SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.585894
+e295128315.687387
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m295128315#295128315#0(0"0(0#0#65"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m4300911832#1830"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/NSString+SBJSON.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PndAppDelegate.o /Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295127956.846472
+e295127956.936953
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PndAppDelegate.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m295127956#295127956#0(0"0(0#0#59"/Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m4300911832#1823"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/PndAppDelegate.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PndAppDelegate.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PosterViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295144954.262219
+e295144954.364418
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PosterViewController.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m: In function '-[PosterViewController back_button_pressed:]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: no '-switch_views' method found
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: (Messages without a matching method signature
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: will be assumed to return 'id' and accept
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: '...' as arguments.)
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m: In function '-[PosterViewController post_button_pressed:]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:46: warning: no '-switch_views' method found
+lSLF07#2@73"Compile /Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m295144954#295144954#0(822"/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m: In function '-[PosterViewController back_button_pressed:]':/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: no '-switch_views' method found/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: (Messages without a matching method signature/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: will be assumed to return 'id' and accept/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:19: warning: '...' as arguments.)/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m: In function '-[PosterViewController post_button_pressed:]':/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m:46: warning: no '-switch_views' method found3(22@31"No '-switch_views' method found295144954#127#111#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m295144947#19#0#19#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)295144954#238#125#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m295144947#19#0#19#0#0"0(22@31"No '-switch_views' method found295144954#711#111#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m295144947#46#0#46#0#19"no '*' method found0(0#0#65"/Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m4300911832#1835"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/PosterViewController.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/PosterViewController.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJSON.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.623092
+e295128315.764395
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJSON.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m295128315#295128315#0(0"0(0#0#56"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m4300911832#1812"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJSON.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonBase.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.687495
+e295128315.860966
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonBase.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m295128315#295128315#0(0"0(0#0#60"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m4300911832#1820"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonBase.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonParser.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.764509
+e295128315.972163
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonParser.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m295128315#295128315#0(0"0(0#0#62"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m4300911832#1824"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonParser.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonWriter.o /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295128315.861085
+e295128315.973091
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m295128315#295128315#0(0"0(0#0#62"/Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m4300911832#1824"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/JSON/SBJsonWriter.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SwitchViewController.o /Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295144988.681381
+e295144988.761155
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SwitchViewController.o
+x/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m: In function '-[SwitchViewController viewDidLoad]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:22: warning: local declaration of 'listViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:24: warning: local declaration of 'listViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:25: warning: local declaration of 'listViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m: In function '-[SwitchViewController switch_views]':
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:36: warning: local declaration of 'posterViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:38: warning: local declaration of 'posterViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:52: warning: local declaration of 'listViewController' hides instance variable
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: 'ListViewController' may not respond to '-update_data'
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: (Messages without a matching method signature
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: will be assumed to return 'id' and accept
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: '...' as arguments.)
+o/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:55: warning: local declaration of 'listViewController' hides instance variable
+lSLF07#2@73"Compile /Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#295144988#0(1736"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m: In function '-[SwitchViewController viewDidLoad]':/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:22: warning: local declaration of 'listViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:24: warning: local declaration of 'listViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:25: warning: local declaration of 'listViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m: In function '-[SwitchViewController switch_views]':/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:36: warning: local declaration of 'posterViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:38: warning: local declaration of 'posterViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:52: warning: local declaration of 'listViewController' hides instance variable/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: 'ListViewController' may not respond to '-update_data'/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: (Messages without a matching method signature/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: will be assumed to return 'id' and accept/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:54: warning: '...' as arguments.)/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m:55: warning: local declaration of 'listViewController' hides instance variable9(22@65"Local declaration of 'listViewController' hides instance variable295144988#118#145#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#22#0#22#0#0"0(22@65"Local declaration of 'listViewController' hides instance variable295144988#263#145#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#24#0#24#0#0"0(22@65"Local declaration of 'listViewController' hides instance variable295144988#408#145#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#25#0#25#0#0"0(22@67"Local declaration of 'posterViewController' hides instance variable295144988#672#147#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#36#0#36#0#0"0(22@67"Local declaration of 'posterViewController' hides instance variable295144988#819#147#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#38#0#38#0#0"0(22@65"Local declaration of 'listViewController' hides instance variable295144988#966#145#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#52#0#52#0#0"0(22@54"'ListViewController' may not respond to '-update_data'295144988#1111#134#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#54#0#54#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)295144988#1245#125#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#54#0#54#0#0"0(22@65"Local declaration of 'listViewController' hides instance variable295144988#1591#145#0(6@65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m295144988#55#0#55#0#0"0(0#0#65"/Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m4300911832#1835"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/Classes/SwitchViewController.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/SwitchViewController.o0#
+
+CCompileC build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/main.o /Users/benmills/Documents/Apps/Pnd/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295127956.845222
+e295127956.900713
+r1
+xCompileC
+xbuild/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/main.o
+x/Users/benmills/Documents/Apps/Pnd/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/benmills/Documents/Apps/Pnd/main.m295127956#295127956#0(0"0(0#0#41"/Users/benmills/Documents/Apps/Pnd/main.m4300911832#1795"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -include /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch -c /Users/benmills/Documents/Apps/Pnd/main.m -o /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/benmills/Documents/Apps/Pnd/ListView.xib
+s295128982.918912
+e295128983.308521
+r1
+xCompileXIB
+x/Users/benmills/Documents/Apps/Pnd/ListView.xib
+lSLF07#2@23"CompileXIB ListView.xib295128982#295128983#0(0"0(0#0#47"/Users/benmills/Documents/Apps/Pnd/ListView.xib4300911832#522"    cd /Users/benmills/Documents/Apps/Pnd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/ListView.nib /Users/benmills/Documents/Apps/Pnd/ListView.xib0#
+
+CCompileXIB /Users/benmills/Documents/Apps/Pnd/MainWindow.xib
+s295127955.528937
+e295127955.856205
+r1
+xCompileXIB
+x/Users/benmills/Documents/Apps/Pnd/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295127955#295127955#0(0"0(0#0#49"/Users/benmills/Documents/Apps/Pnd/MainWindow.xib4300911832#526"    cd /Users/benmills/Documents/Apps/Pnd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/MainWindow.nib /Users/benmills/Documents/Apps/Pnd/MainWindow.xib0#
+
+CCompileXIB /Users/benmills/Documents/Apps/Pnd/PosterView.xib
+s295144237.782607
+e295144238.239328
+r1
+xCompileXIB
+x/Users/benmills/Documents/Apps/Pnd/PosterView.xib
+lSLF07#2@25"CompileXIB PosterView.xib295144237#295144238#0(0"0(0#0#49"/Users/benmills/Documents/Apps/Pnd/PosterView.xib4300911832#526"    cd /Users/benmills/Documents/Apps/Pnd    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/PosterView.nib /Users/benmills/Documents/Apps/Pnd/PosterView.xib0#
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/icon.png ../../../Desktop/icon.png
+s295475470.631891
+e295475470.636810
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pnd.app/icon.png
+x../../../Desktop/icon.png
+lSLF07#2@30"Copy ../../../Desktop/icon.png295475470#295475470#0(0"0(0#0#60"/Users/benmills/Documents/Apps/Pnd/../../../Desktop/icon.png4300911832#515"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/benmills/Documents/Apps/Pnd/../../../Desktop/icon.png /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app0#
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/pond-logo.png ../ipad-pond/pond-logo.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/pond-logo.png pond-logo.png
+s295128314.565067
+e295128314.605981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pnd.app/pond-logo.png
+xpond-logo.png
+lSLF07#2@18"Copy pond-logo.png295128314#295128314#0(0"0(0#0#48"/Users/benmills/Documents/Apps/Pnd/pond-logo.png4300911832#503"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/benmills/Documents/Apps/Pnd/pond-logo.png /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app0#
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/post-button.png ../ipad-pond/post-button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/post-button.png post-button.png
+s295128314.565709
+e295128314.603941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pnd.app/post-button.png
+xpost-button.png
+lSLF07#2@20"Copy post-button.png295128314#295128314#0(0"0(0#0#50"/Users/benmills/Documents/Apps/Pnd/post-button.png4300911832#505"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/benmills/Documents/Apps/Pnd/post-button.png /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app0#
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/refresh-button.png ../ipad-pond/refresh-button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pnd.app/refresh-button.png refresh-button.png
+s295128314.566386
+e295128314.606392
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pnd.app/refresh-button.png
+xrefresh-button.png
+lSLF07#2@23"Copy refresh-button.png295128314#295128314#0(0"0(0#0#53"/Users/benmills/Documents/Apps/Pnd/refresh-button.png4300911832#508"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/benmills/Documents/Apps/Pnd/refresh-button.png /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app0#
+
+CGenerateDSYMFile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app.dSYM /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd
+s295487363.123784
+e295487363.152063
+r1
+xGenerateDSYMFile
+x/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app.dSYM
+x/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Pnd.app.dSYM build/Debug-iphonesimulator/Pnd.app/Pnd295487363#295487363#0(0"0(0#0#74"/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd4300911832#421"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd -o /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app.dSYM0#
+
+CLd /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd normal i386
+s295487363.066661
+e295487363.123684
+r1
+xLd
+x/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd
+xnormal
+xi386
+lSLF07#2@79"Link /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd295487363#295487363#0(0"0(0#0#0"4300911832#884"    cd /Users/benmills/Documents/Apps/Pnd    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -filelist /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Objects-normal/i386/Pnd.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Pnd0#
+
+CProcessInfoPlistFile /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Info.plist Pnd-Info.plist
+s295475470.614610
+e295475470.631473
+r1
+xProcessInfoPlistFile
+x/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Info.plist
+xPnd-Info.plist
+lSLF07#2@22"Process Pnd-Info.plist295475470#295475470#0(0"0(0#0#49"/Users/benmills/Documents/Apps/Pnd/Pnd-Info.plist4300911832#517"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Pnd-Info.plist -genpkginfo /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app/Info.plist0#
+
+CProcessPCH /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch.gch Pnd_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295127956.135348
+e295127956.845073
+r1
+xProcessPCH
+x/var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch.gch
+xPnd_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Pnd_Prefix.pch295127956#295127956#0(0"0(0#0#49"/Users/benmills/Documents/Apps/Pnd/Pnd_Prefix.pch4300911832#1695"    cd /Users/benmills/Documents/Apps/Pnd    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-generated-files.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-own-target-headers.hmap -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-all-target-headers.hmap -iquote /Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/Pnd-project-headers.hmap -F/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator -I/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/include -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources/i386 -I/Users/benmills/Documents/Apps/Pnd/build/Pnd.build/Debug-iphonesimulator/Pnd.build/DerivedSources -c /Users/benmills/Documents/Apps/Pnd/Pnd_Prefix.pch -o /var/folders/2K/2KE-QxE5FlCvYa+U5fCp6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pnd_Prefix-bfnagxrfvonnbiglcgtxnmrgwfht/Pnd_Prefix.pch.gch0#
+
+CTouch /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app
+s295487363.152159
+e295487363.154760
+r1
+xTouch
+x/Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app
+lSLF07#2@76"Touch /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app295487363#295487363#0(0"0(0#0#0"4300911832#328"    cd /Users/benmills/Documents/Apps/Pnd    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/benmills/Documents/Apps/Pnd/build/Debug-iphonesimulator/Pnd.app0#
+

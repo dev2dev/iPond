@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>ListView.nib</key>
+		<data>
+		gfw0EbPblLGMCTk3P8JoeGR9dnk=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		yGw6gIP3jUWrbLW8A9bNd9NYEpU=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PosterView.nib</key>
+		<data>
+		eV1jc8DixNHE1moNS6knjoK3CKo=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		7z51KB2ZWwfXM6l/3nUZmob8h1w=
+		</data>
+		<key>icon.png</key>
+		<data>
+		s1q3NloGAaq9hYnpxtKcxhmxQ2Q=
+		</data>
+		<key>pond-logo.png</key>
+		<data>
+		TNj951hf8R1p5sIG6OCDxoUR7iw=
+		</data>
+		<key>post-button.png</key>
+		<data>
+		D2hNZUj8eFAFgR71X/oYfwr54Vs=
+		</data>
+		<key>refresh-button.png</key>
+		<data>
+		+0k30WJIrmt3Pqsnf0MLCprxdFA=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
